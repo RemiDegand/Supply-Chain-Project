@@ -41,6 +41,14 @@ The goal is to:
 - PivotTables for demand consolidation
 - Custom formulas: `AVERAGE.IF`, `MAX.IF`, EOQ models, Safety Stock, Total Costs
 
+- ### 🧾 Final Result:
+![CaptureexcelSC1](https://github.com/user-attachments/assets/301348ea-b150-4e6a-a2f8-191002744719)
+![CaptureExcelSC2](https://github.com/user-attachments/assets/42da4860-2a87-4802-8601-32117f18306e)
+![Capt![CaptureEXCELSC4](https://github.com/user-attachments/assets/920b3028-299c-4d31-9e56-7d907c38f378)
+ureExcelSC3](https://github.com/user-attachments/assets/ea6b99ec-ed2a-4e87-a37c-aec91ca5f4db)
+
+- 
+
 ---
 
 ## 🧠 Key Takeaways
