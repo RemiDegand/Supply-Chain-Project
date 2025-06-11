@@ -24,6 +24,11 @@ The goal is to:
 - Data modeling and relationship management
 
 ### 🧾 Final Result:
+![CapturePowerBISCOverview](https://github.com/user-attachments/assets/962d1238-0d09-4d31-9395-8aed1c846474)
+![CapturePOWERBISCSHIPPINGMODE](https://github.com/user-attachments/assets/f5f3cef4-ef0c-4b94-90e5-f9f09d5992fb)
+![CapturePOWERBISCMARKET](https://github.com/user-attachments/assets/8cf44214-17c7-44ad-a1dc-280661a30c94)
+![CapturePOWERBISCPRODUCT](https://github.com/user-attachments/assets/78b7ce9d-295a-4d47-86b3-63bcc11a6d50)
+
 
 
 ---
